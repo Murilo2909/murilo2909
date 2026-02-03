@@ -30,6 +30,7 @@
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-red)
 
 ---
 
