@@ -89,21 +89,14 @@ This project reflects my interest in combining **software engineering + security
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-blue)
 ![Postman](https://img.shields.io/badge/Postman-orange)
 ![VS Code](https://img.shields.io/badge/VSCode-blue)
-
----
-
-## 📊 GitHub Stats
-
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo2909&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo2909&layout=compact&theme=tokyonight)
-
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple)
+![Swagger](https://img.shields.io/badge/Swagger-green)
 
 ---
 
 ## 🎯 Goals for 2026
 
-- Gain real-world experience through an **internship**
+- Gain more real-world experience through an **internship**
 - Dive deeper into **Cybersecurity & Ethical Hacking**
 - Build more **secure and scalable backend systems**
 - Improve my **low-level and systems knowledge**
