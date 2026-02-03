@@ -74,11 +74,10 @@ This project reflects my interest in combining **software engineering + security
 
 ## 📊 GitHub Stats
 
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo2909&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo2909&layout=compact&theme=tokyonight)
 
-🔧 **Replace `SEUUSUARIO` with your GitHub username**
 
 ---
 
