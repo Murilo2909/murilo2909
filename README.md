@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Student  
 💻 Full-Stack Developer  
-🔐 Future Cybersecurity Specialist  
+🔐 Cybersecurity enthusiast
 
 I’m passionate about building **complete systems**, understanding how they work under the hood, and learning how to make them **secure**.
 
@@ -10,7 +10,6 @@ I’m passionate about building **complete systems**, understanding how they wor
 
 ## 🚀 About Me
 
-- 🧠 Focused on becoming a **Cybersecurity Specialist**
 - 🏗️ I enjoy developing **full systems** (backend, frontend, database)
 - ⚙️ I also like working with **electronics and embedded logic**
 - 📚 Currently looking for an **internship opportunity**
@@ -40,9 +39,9 @@ I’m passionate about building **complete systems**, understanding how they wor
 
 Right now I'm building my foundation in:
 
-- Web application security concepts  
-- Secure coding practices  
-- Understanding vulnerabilities and how systems can be exploited  
+- Web application security concepts
+- Secure coding practices
+- Understanding vulnerabilities and how systems can be exploited
 - Preparing to move into **hands-on labs and security platforms**
 
 ---
