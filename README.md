@@ -2,7 +2,6 @@
 
 🎓 Computer Engineering Student  
 💻 Full-Stack Developer  
-🔐 Cybersecurity enthusiast
 
 I’m passionate about building **complete systems**, understanding how they work under the hood, and learning how to make them **secure**.
 
@@ -14,6 +13,7 @@ I’m passionate about building **complete systems**, understanding how they wor
 - ⚙️ I also like working with **electronics and embedded logic**
 - 📚 Currently looking for an **internship opportunity**
 - 🌍 Languages: **Portuguese (native), English (fluent), German (learning)**
+- 🔐 Cybersecurity and AI enthusiast & learner
 
 ---
 
@@ -35,14 +35,34 @@ I’m passionate about building **complete systems**, understanding how they wor
 
 ---
 
-## 🔐 Cybersecurity Journey
+## 💻 Programming Journey
 
-Right now I'm building my foundation in:
+My path in tech started early and quickly became professional.
 
-- Web application security concepts
-- Secure coding practices
-- Understanding vulnerabilities and how systems can be exploited
-- Preparing to move into **hands-on labs and security platforms**
+I worked for **3 years** as a **Junior Full-Stack Developer**, contributing to real-world projects, supporting ongoing systems, and taking responsibility for maintaining and evolving features across the stack.
+
+During this time, I:
+
+- Assisted in the development and maintenance of production systems
+- Collaborated with senior developers and cross-functional teams
+- Helped manage and implement features in active projects
+- Gained hands-on experience with real business rules and client needs
+- Developed a strong focus on **security, scalability, and clean code practices**
+
+I’m always aiming to build systems that are not only functional, but also:
+
+- 🔐 **Secure** — thinking about vulnerabilities and safe development practices  
+- 📈 **Scalable** — designing solutions that can grow with user and business needs  
+- 🧼 **Maintainable** — writing clean, readable, and well-structured code  
+
+Beyond technical skills, I strongly value:
+
+- 🤝 **Clear communication**
+- 👥 **Teamwork and collaboration**
+- 📌 **Responsibility and ownership of tasks**
+
+These experiences helped shape not only my technical foundation but also my professional mindset as a developer.
+
 
 ---
 
