@@ -37,7 +37,7 @@
 
 My journey in tech quickly became professional.
 
-I worked for **3 years** as a **Junior Full-Stack Developer**, contributing to real-world systems, maintaining production applications, and helping implement and manage features across the stack. This gave me hands-on experience with real business rules, client needs, and team-based development.
+I worked for **3 years** as a **Junior Full-Stack Developer**, contributing to real-world systems, maintaining production applications, and helping implement and manage features across the stack. This gave me hands-on experience with real business rules, hierarchy, client needs, and team-based development.
 
 During this time, I developed a strong focus on building software that is:
 
