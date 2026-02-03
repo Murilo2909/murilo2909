@@ -3,15 +3,13 @@
 🎓 Computer Engineering Student  
 💻 Full-Stack Developer  
 
-I’m passionate about building **complete systems**, understanding how they work under the hood, and learning how to make them **secure**.
-
 ---
 
 ## 🚀 About Me
 
 - 🏗️ I enjoy developing **full systems** (backend, frontend, database)
 - ⚙️ I also like working with **electronics and embedded logic**
-- 📚 Currently looking for an **internship opportunity**
+- 🎓 Currently studying at **UTFPR – Pato Branco, Paraná**
 - 🌍 Languages: **Portuguese (native), English (fluent), German (learning)**
 - 🔐 Cybersecurity and AI enthusiast & learner
 
@@ -37,32 +35,23 @@ I’m passionate about building **complete systems**, understanding how they wor
 
 ## 💻 Programming Journey
 
-My path in tech started early and quickly became professional.
+My journey in tech quickly became professional.
 
-I worked for **3 years** as a **Junior Full-Stack Developer**, contributing to real-world projects, supporting ongoing systems, and taking responsibility for maintaining and evolving features across the stack.
+I worked for **3 years** as a **Junior Full-Stack Developer**, contributing to real-world systems, maintaining production applications, and helping implement and manage features across the stack. This gave me hands-on experience with real business rules, client needs, and team-based development.
 
-During this time, I:
+During this time, I developed a strong focus on building software that is:
 
-- Assisted in the development and maintenance of production systems
-- Collaborated with senior developers and cross-functional teams
-- Helped manage and implement features in active projects
-- Gained hands-on experience with real business rules and client needs
-- Developed a strong focus on **security, scalability, and clean code practices**
+- 🔐 **Secure** — applying safe development practices  
+- 📈 **Scalable** — designing systems that grow with demand  
+- 🧼 **Maintainable** — writing clean, readable, well-structured code  
 
-I’m always aiming to build systems that are not only functional, but also:
-
-- 🔐 **Secure** — thinking about vulnerabilities and safe development practices  
-- 📈 **Scalable** — designing solutions that can grow with user and business needs  
-- 🧼 **Maintainable** — writing clean, readable, and well-structured code  
-
-Beyond technical skills, I strongly value:
+Beyond technical skills, I highly value:
 
 - 🤝 **Clear communication**
 - 👥 **Teamwork and collaboration**
-- 📌 **Responsibility and ownership of tasks**
+- 📌 **Responsibility and ownership**
 
-These experiences helped shape not only my technical foundation but also my professional mindset as a developer.
-
+These experiences shaped both my technical foundation and my professional mindset as a developer.
 
 ---
 
