@@ -42,9 +42,9 @@ I worked for **3 years** as a **Junior Full-Stack Developer**, contributing to r
 
 During this time, I developed a strong focus on building software that is:
 
-- 🔐 **Secure** — applying safe development practices  
-- 📈 **Scalable** — designing systems that grow with demand  
-- 🧼 **Maintainable** — writing clean, readable, well-structured code  
+- 🔐 **Secure** — implemented JWT tokens on systems, helped reduce risks on SQL injections and other problems
+- 📈 **Scalable** — designing systems that grow with demand
+- 🧼 **Maintainable** — writing clean, readable, well-structured code, so when/if something goes wrong, it's easy to fix  
 
 Beyond technical skills, I highly value:
 
