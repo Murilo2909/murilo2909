@@ -5,16 +5,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🏗️ I enjoy developing **full systems** (backend, frontend, database)
-- ⚙️ I also like working with **electronics and embedded logic**
-- 🎓 Currently studying at **UTFPR – Pato Branco, Paraná**
-- 🌍 Languages: **Portuguese (native), English (fluent), German (learning)**
-- 🔐 Cybersecurity and AI enthusiast & learner
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Main Technologies
@@ -31,6 +21,16 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-red)
+
+---
+
+## 🚀 About Me
+
+- 🏗️ I enjoy developing **full systems** (backend, frontend, database)
+- ⚙️ I also like working with **electronics and embedded logic**
+- 🎓 Currently studying at **UTFPR – Pato Branco, Paraná**
+- 🌍 Languages: **Portuguese (native), English (fluent), German (learning)**
+- 🔐 Cybersecurity and AI enthusiast & learner
 
 ---
 
